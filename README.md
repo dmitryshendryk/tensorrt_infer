@@ -1,10 +1,11 @@
 # tensorrt_infer
 
 ## Build
-
+'''
 cd ../build
 cmake ..
 make 
+'''
 
 
 ## Run the inference 
